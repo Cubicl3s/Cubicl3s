@@ -1,6 +1,6 @@
 <img src="../Images/Cubicles_image.png" alt="Cubicles Logo"/>
 
-### **Empowering AIML Students with Real-World Project Development**  
+### **Empowering Students with Real-World Project Development**  
 
 **Cubicles** is a structured initiative designed to bridge the gap between academic learning and industry-ready skills. Through hands-on projects in **Web Development, Mobile Applications, Machine Learning, and Artificial Intelligence**, students gain technical expertise, teamwork experience, and real-world problem-solving abilities.  
 
@@ -25,7 +25,7 @@
 - 💼 **Project Types:**  
   - Individual (Beginner)  
   - Duo (Intermediate)  
-  - Team-based (Pro Level)  
+  - Team-based   
 - 💡 **Outcome:** Industry-ready skills, project experience, and a portfolio boost  
 
 ---
@@ -33,7 +33,7 @@
 
 ## 📢 **Get Involved**  
 
-🚀 **Interested in joining or partnering?** We’re open to collaborations, mentorship, and sponsorships!  
+🚀 **Interested in joining or partnering?** We’re open to collaborations and mentorship!  
 📩 **Contact:** contact@cubicl3s.live  
 
 🔗 **Stay Connected:**  
